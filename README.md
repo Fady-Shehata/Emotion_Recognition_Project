@@ -1,4 +1,5 @@
 ﻿# Emotion_Recognition_Project
 
 
-<img src="https://camo.githubusercontent.com/..." data-canonical-src="https://user-images.githubusercontent.com/61511510/205941166-e0514f4d-f7ea-4752-89cd-86423a5f9d29.png" width="200" height="400" />
+<img src="https://camo.githubusercontent.com/..." data-canonical-src="![1](https://user-images.githubusercontent.com/61511510/205941461-9b6750da-9974-44b6-9d5b-4c4d27c258b8.png)
+" width="200" height="400" />
