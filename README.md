@@ -1,7 +1,7 @@
 ﻿# Emotion_Recognition_Project
 
 
-<img src="https://camo.githubusercontent.com/..." data-canonical-src="[https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png](https://user-images.githubusercontent.com/61511510/205938444-80e09d3a-1c1a-4318-bffa-bb651a66762b.png)" width="200" height="400" />
+<img src="https://camo.githubusercontent.com/..." data-canonical-src="https://user-images.githubusercontent.com/61511510/205938444-80e09d3a-1c1a-4318-bffa-bb651a66762b.png)" width="200" height="400" />
 ![2](https://user-images.githubusercontent.com/61511510/205938455-d9c0b199-57b7-4b62-ab79-220585812a07.png )
 ![3](https://user-images.githubusercontent.com/61511510/205938438-fa053478-c0de-436d-b27f-d0e0d3484243.png)
 ![4](https://user-images.githubusercontent.com/61511510/205937655-1bf94192-bf25-47cd-8ee3-2a379bed6174.png)
